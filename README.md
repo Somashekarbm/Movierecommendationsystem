@@ -1,5 +1,5 @@
 # Movie Recommendation System
-
+To run ,first set the path of the datasets in the app.py file and run it once,later run the main movie recommendation system file and later exec-"streamlit run filename.py"
 ## Overview
 
 This project is a Movie Recommendation System built using Python, Streamlit, and Machine Learning techniques. The system combines collaborative filtering and content-based approaches to provide personalized movie suggestions based on user preferences and movie features.
